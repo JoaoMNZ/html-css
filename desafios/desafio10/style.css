@@ -1,0 +1,131 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'android';
+    src: url('fontes/idroid.otf') format('opentype');
+}
+body{
+    margin: 0px;
+    background-color: #E8E5C2;
+}
+
+header {
+    background: linear-gradient(#439868, #033812);
+    margin: 0px;
+    width: 100%;
+    padding: 1px;
+}
+
+header > p {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.a {
+    padding: 10px;
+}
+
+.a > a{
+    text-decoration: none;
+    color: #82feb7;
+}
+
+.a:hover{
+    background-color: #439868;
+}
+
+
+
+header > h1 {
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+    min-width: 300px;
+    max-width: 1000px;
+    margin: auto;
+    background-color: white;
+    margin-left: 340px;
+    margin-right: 340px;
+    padding: 1px 5px 5px 10px
+    
+}
+
+section#principal > h2{
+    color: #033812;
+    font-family: android;
+}
+
+section#principal > p {
+    text-indent: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    padding-right: 10px;
+}
+
+section#principal > p > a {
+    color: #107a2e;
+    text-decoration: none;
+}
+
+.titulo > h2{
+    padding-left: 10px;
+    font-family: android;
+    background: linear-gradient(to right,#82feb7, white);
+    color: #36694c;
+}
+
+.titulo > p{
+    text-indent: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    padding-right: 10px;
+}
+
+.titulo > p > a {
+    background-color: #82feb7;
+    color: #033812;
+    text-decoration: none;
+}
+
+section#versao > p > a#dif {
+    background-color: white;
+    color: #0b7f2c;
+    text-decoration: none;
+} 
+.titulo > img{
+    text-align: center;
+}
+
+picture > img{
+    text-align: center;
+}
+
+div#bugdroid {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+div#video{
+    padding: 20px;
+    background-color: #033812;
+    text-align: center;
+}
+
+footer{
+    background-color: #033812;
+    color: white;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
