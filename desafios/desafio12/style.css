@@ -26,6 +26,7 @@ header h1 {
     font-family: 'Passion One';
     font-size: 10vh;
     text-align: center;
+    font-variant: small-caps;
 }
 
 header p {
@@ -61,8 +62,8 @@ article#imagem1 {
 aside#conteudo {
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 20px;
-    padding: 10px;
+    margin-left: 15px;
+    padding: 5px;
     display: inline-block;
     color: white;
     background-color: rgba(0, 0, 0, 0.499);
@@ -83,8 +84,8 @@ article#imagem2 {
 aside#conteudo2 {
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 20px;
-    padding: 10px;
+    margin-left: 15px;
+    padding: 5px;
     display: inline-block;
     color: white;
     background-color: rgba(0, 0, 0, 0.5);
@@ -102,5 +103,5 @@ footer {
     color: white;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 2.5vh
+    font-size: 2.0vh
 }
