@@ -48,7 +48,7 @@ main p {
     font-family: 'Sriracha', cursive;
     margin-left: 20px;
     margin-bottom: 2em;
-    font-size: 3.5em;
+    font-size: 3.5vh;
 }
 
 article#imagem1 {
@@ -56,16 +56,16 @@ article#imagem1 {
     background-size: cover;
     background-attachment: fixed;
     background-position: right center;
-    height: 110vh;
 }
 
 aside#conteudo {
-    margin-top: 10vh;
+    margin-top: 20px;
+    margin-bottom: 20px;
     margin-left: 30px;
     padding: 10px;
     display: inline-block;
     color: white;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.499);
 }
 
 aside#conteudo > p {
@@ -78,16 +78,16 @@ article#imagem2 {
     background-size: cover;
     background-attachment: fixed;
     background-position: right center;
-    height: 110vh;
 }
 
 aside#conteudo2 {
-    margin-top: 10vh;
+    margin-top: 20px;
+    margin-bottom: 20px;
     margin-left: 30px;
     padding: 10px;
     display: inline-block;
     color: white;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 aside#conteudo2 > p {
