@@ -24,7 +24,7 @@ header {
 header h1 {
     padding-top: 50px;
     font-family: 'Passion One';
-    font-size: 15vh;
+    font-size: 10vh;
     text-align: center;
 }
 
@@ -61,7 +61,7 @@ article#imagem1 {
 aside#conteudo {
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 30px;
+    margin-left: 20px;
     padding: 10px;
     display: inline-block;
     color: white;
@@ -83,7 +83,7 @@ article#imagem2 {
 aside#conteudo2 {
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 30px;
+    margin-left: 20px;
     padding: 10px;
     display: inline-block;
     color: white;
@@ -102,4 +102,5 @@ footer {
     color: white;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.5vh
 }
