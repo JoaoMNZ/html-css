@@ -105,3 +105,12 @@ footer {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 2.0vh
 }
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
