@@ -10,8 +10,8 @@
     font-size: 1em;
 }
 
-body {
-    height: 100vh;
+body, html {
+    min-height: 100vh;
 }
 
 header {
@@ -24,7 +24,7 @@ header {
 header h1 {
     padding-top: 50px;
     font-family: 'Passion One';
-    font-size: 10vh;
+    font-size: 10vw;
     text-align: center;
     font-variant: small-caps;
 }
